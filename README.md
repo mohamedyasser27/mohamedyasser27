@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [resturant page](https://github.com/mohamedyasser27/resturant-page)
 
-- 🌱 I’m currently learning **OOP principles**
+- 🌱 I’m currently learning **resonsive web design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedyasser27](https://github.com/mohamedyasser27)
 
-- 💬 Ask me about **html,css,js and data structures**
+- 💬 Ask me about **html,css,js**
 
 - 📫 How to reach me **mohamedyasseramer17@gmail.com**
 
