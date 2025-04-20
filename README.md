@@ -1,6 +1,6 @@
 # <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi there!
 
-I'm **[Mohamed Yasser](https://www.linkedin.com/in/mohamedyasser27/)**, a Software Engineer at **Flash**. I specialize in web development with technologies like **React**, **Go**, and **Node.js**.
+I'm **Mohamed Yasser**, a Software Engineer at **Flash**. I specialize in web development with technologies like **React**, **Go**, and **Node.js**.
 
 I'm passionate about crafting clean, efficient, and user-friendly applications. Always learning. Always improving.
 
