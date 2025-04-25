@@ -16,4 +16,4 @@ I'm passionate about crafting clean, efficient, and user-friendly applications. 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mohamedyasser27/)](https://github.com/mohamedyasser27/) 
 
 ## 🚀 Stats
-<img src="github-readme-streak-stats-eight.vercel.app?user=mohamedyasser27&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohamedyasser27&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
