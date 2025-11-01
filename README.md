@@ -13,7 +13,6 @@ I'm passionate about crafting clean, efficient, and user-friendly applications. 
 ## 📬 Feel Free to contact me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamed.yasser2725@gmail.com?subject=[GitHub]%20Contact%20Request&body=Hello%20Mohamed%2C%0A%0AI%20am%20reaching%20out%20today%20after%20seeing%20your%20GitHub%20profile%20to%20...)](mailto:mohamed.yasser2725@gmail.com?subject=[GitHub]%20Contact%20Request&body=Hello%20Mohamed%2C%0A%0AI%20am%20reaching%20out%20today%20after%20seeing%20your%20GitHub%20profile%20to%20...)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedyasser27/)](https://www.linkedin.com/in/mohamedyasser27)
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mohamedyasser27/)](https://github.com/mohamedyasser27/) 
 
 ## 🚀 Stats
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohamedyasser27&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
