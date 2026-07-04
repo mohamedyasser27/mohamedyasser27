@@ -15,4 +15,11 @@ I'm passionate about crafting clean, efficient, and user-friendly applications. 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedyasser27/)](https://www.linkedin.com/in/mohamedyasser27)
 
 ## 🚀 Stats
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohamedyasser27&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<div align="center">
+  <a href="https://commit-history.com/mohamedyasser27">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/mohamedyasser27?theme=dark" />
+      <img alt="mohamedyasser27's commit history" src="https://commit-history.com/embed/mohamedyasser27" />
+    </picture>
+  </a>
+</div>
